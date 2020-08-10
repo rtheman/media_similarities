@@ -1,10 +1,30 @@
-# media\_similarities
+# Finding Similarities in Media Contents
 
-Identify images and videos that are similar to each other via syntactic approach
+## Motivations
 
-Hello World! blah blah blah.
+The intention of this project \(repo\) is to showcase typical business use-cases, as well as practical guides in leveraging different techniques to sample media from its original form \(images, videos\) before searching/identifying similar contents.
 
-## New Section
+## Background
 
-blah blah blah in new section
+There are several ways to detect differences / similarities of images and videos, and the answer kind of depends whom you ask: a Computer or a Human.
+
+![](.gitbook/assets/image.png)
+
+Typically, a computer is great at detecting every single bit of differences - literally.  As a result, comparing the binary representation of two images will merely highlight the exact 'same-ness' or not \(that there are some differences, even if it's one pixel difference between them\).  Such method is done by creating a "fingerprint" via hashing methods such as MD5 or SHA-256.
+
+**Syntactic** matching is akin to a human finding copies of the original, or grouping several media assets together due to their similarities without extracting meaning from them.  For example, "for copy-detection use cases, ... \[one\] simply want to see if two images are essentially the same, having available neither prior information about the images, nor their context."1
+
+
+
+
+
+## References
+
+1. The TMK+PDQF Video Hashing Algorithm and the PDQ Image Hashing Algorithm [https://github.com/facebook/ThreatExchange/blob/master/hashing/hashing.pdf](https://github.com/facebook/ThreatExchange/blob/master/hashing/hashing.pdf)
+
+
+
+
+
+
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [media\_similarities](README.md)
+* [Finding Similarities in Media Contents](README.md)
 
 ## some group
 
