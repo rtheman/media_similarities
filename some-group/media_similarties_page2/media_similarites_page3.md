@@ -1,5 +1,5 @@
 ---
-description: just another page (page 3)
+description: A subpage of page 2
 ---
 
 # media\_similarites\_page3
