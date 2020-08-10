@@ -2,8 +2,13 @@
 
 * [Finding Similarities in Media Contents](README.md)
 
-## some group
+## Fingerprinting
 
-* [media\_similarties\_page2](some-group/media_similarties_page2/README.md)
-  * [media\_similarites\_page3](some-group/media_similarties_page2/media_similarites_page3.md)
+* [Sampling](fingerprinting/media_similarties_page2.md)
+* [Indexing](fingerprinting/media_similarites_page3.md)
+
+## Similarities
+
+* [Needles and Haystack](similarities/needles-and-haystack.md)
+* [Clustering](similarities/clustering.md)
 
