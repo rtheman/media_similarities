@@ -4,6 +4,38 @@
 
 The intention of this project \(repo\) is to showcase typical business use-cases, as well as practical guides in leveraging different techniques to sample media from its original form \(images, videos\) before searching/identifying similar contents.
 
+## Contents
+
+A better UI/UX of this documentation can be consume in the GitBook domain, [https://kleung-hkg.gitbook.io/media-similarities/](https://kleung-hkg.gitbook.io/media-similarities/)
+
+### **Fingerprint**
+
+Generating unique signature of content.
+
+![](.gitbook/assets/image%20%281%29.png)
+
+1. **Sampling**.  Best practices \(with sample code\) in extracting 'contents' from the original image / video.
+
+   {% page-ref page="fingerprinting/fingerprinting-sampling.md" %}
+
+2. **Indexing**.  Highlight various methods to create that signature \(fingerprint\) of the image / video.
+
+   {% page-ref page="fingerprinting/fingerprinting-indexing.md" %}
+
+### **Similarities**
+
+![](.gitbook/assets/media-similarities-02-search-for-similarities.jpg)
+
+Identifying similar content\(s\) via:
+
+1. Finding the '**Needles from Haystack**' method
+
+   {% page-ref page="similarities/similarities-needles-and-haystack.md" %}
+
+2. **Clustering** the indexed contents into its own group \(kNN like in ML world\)
+
+   {% page-ref page="similarities/similarities-clustering.md" %}
+
 ## Background
 
 There are several ways to detect differences / similarities of images and videos, and the answer kind of depends whom you ask: a Computer or a Human.
@@ -22,7 +54,12 @@ A Syntactic hasher popular in the community includes Perceptual Hashing \(pHash\
 
 Semantic hasher usually comes in form of a machine-learning or deep-learning model.
 
+## Use Cases
 
+The reason I want to take a deeper dive in the area of finding similar contents \#NearestNeighbor / \#vector\_TBD is the inheritnly wide range of business use cases.
+
+* Media Tagging
+* Identifying fraudulent or copy-cat contents
 
 ## References
 

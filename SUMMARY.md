@@ -4,11 +4,11 @@
 
 ## Fingerprinting
 
-* [Sampling](fingerprinting/media_similarties_page2.md)
-* [Indexing](fingerprinting/media_similarites_page3.md)
+* [Sampling](fingerprinting/fingerprinting-sampling.md)
+* [Indexing](fingerprinting/fingerprinting-indexing.md)
 
 ## Similarities
 
-* [Needles and Haystack](similarities/needles-and-haystack.md)
-* [Clustering](similarities/clustering.md)
+* [Needles and Haystack](similarities/similarities-needles-and-haystack.md)
+* [Clustering](similarities/similarities-clustering.md)
 
