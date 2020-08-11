@@ -67,6 +67,7 @@ The reason I want to take a deeper dive in the area of finding similar contents 
 2. `TMK` GitHub [https://github.com/facebook/ThreatExchange/tree/master/hashing/tmk](https://github.com/facebook/ThreatExchange/tree/master/hashing/tmk)
 3. `FAISS` GitHub [https://github.com/facebookresearch/faiss/wiki/Getting-started](https://github.com/facebookresearch/faiss/wiki/Getting-started) 
 4. `FAISS` Explanation + Example [https://towardsdatascience.com/understanding-faiss-619bb6db2d1a](https://towardsdatascience.com/understanding-faiss-619bb6db2d1a)
+5. ANN Benchmark [https://github.com/erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks)
 
 
 
