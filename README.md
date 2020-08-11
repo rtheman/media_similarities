@@ -63,7 +63,10 @@ The reason I want to take a deeper dive in the area of finding similar contents 
 
 ## References
 
-1. The TMK+PDQF Video Hashing Algorithm and the PDQ Image Hashing Algorithm [https://github.com/facebook/ThreatExchange/blob/master/hashing/hashing.pdf](https://github.com/facebook/ThreatExchange/blob/master/hashing/hashing.pdf)
+1. The `TMK+PDQF` Video Hashing Algorithm and the `PDQ` Image Hashing Algorithm [https://github.com/facebook/ThreatExchange/blob/master/hashing/hashing.pdf](https://github.com/facebook/ThreatExchange/blob/master/hashing/hashing.pdf)
+2. `TMK` GitHub [https://github.com/facebook/ThreatExchange/tree/master/hashing/tmk](https://github.com/facebook/ThreatExchange/tree/master/hashing/tmk)
+3. `FAISS` GitHub [https://github.com/facebookresearch/faiss/wiki/Getting-started](https://github.com/facebookresearch/faiss/wiki/Getting-started) 
+4. `FAISS` Explanation + Example [https://towardsdatascience.com/understanding-faiss-619bb6db2d1a](https://towardsdatascience.com/understanding-faiss-619bb6db2d1a)
 
 
 
