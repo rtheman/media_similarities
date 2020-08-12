@@ -14,13 +14,15 @@ Generating unique signature of content.
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-1. **Sampling**.  Best practices \(with sample code\) in extracting 'contents' from the original image / video.
+* **Sampling**.  Best practices \(with sample code\) in extracting 'contents' from the original image / video.
 
-   {% page-ref page="fingerprinting/fingerprinting-sampling.md" %}
+  {% page-ref page="fingerprinting/fingerprinting-sampling.md" %}
 
-2. **Indexing**.  Highlight various methods to create that signature \(fingerprint\) of the image / video.
+{% page-ref page="fingerprinting/fingerprinting-sampling.md" %}
 
-   {% page-ref page="fingerprinting/fingerprinting-indexing.md" %}
+* **Indexing**.  Highlight various methods to create that signature \(fingerprint\) of the image / video.
+
+{% page-ref page="fingerprinting/fingerprinting-indexing.md" %}
 
 ### **Similarities**
 
